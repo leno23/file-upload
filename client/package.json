@@ -8,6 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "element-plus": "^2.2.8",
+    "unplugin-vue-components": "^0.21.0",
     "vue": "^3.2.25"
   },
   "devDependencies": {
